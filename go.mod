@@ -1,4 +1,4 @@
-module github.com/zerodha/kite-mcp-server/kc/domain
+module github.com/algo2go/kite-mcp-domain
 
 go 1.25.0
 
@@ -52,7 +52,4 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/zerodha/gokiteconnect/v4 v4.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-)
-
-replace (
 )
