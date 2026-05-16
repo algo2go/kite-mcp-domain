@@ -37,9 +37,9 @@ go 1.25.0
 // is purely ceremony with zero behavior change. This is 20/24 in
 // the broader zero-monolith plan (commit 4 of 4 in this dispatch).
 require (
-	github.com/algo2go/kite-mcp-broker v0.1.0
+	github.com/algo2go/kite-mcp-broker v0.1.2
 	github.com/algo2go/kite-mcp-isttz v0.1.0
-	github.com/algo2go/kite-mcp-money v0.1.0
+	github.com/algo2go/kite-mcp-money v0.1.1
 )
 
 require github.com/stretchr/testify v1.10.0
